@@ -4,7 +4,7 @@
 ## ***About Me*** :boy:
 ![image](https://tse1.mm.bing.net/th?id=OIP.m-gvLQS_asDg5ZFeuGJcWgHaHa&pid=Api&P=0&w=300&h=300)
 
-A *Python* programmer, Student at CET Bhubaneswar in the department of IT. The reason behind IT is *I'm always trying to grow and learn something exciting*. 
+A *Python* programmer, a 3:star: and a 5:star: coder at CodeChef and HackerRank respectively, Student at CET Bhubaneswar in the department of IT. The reason behind IT is *I'm always trying to grow and learn something exciting*. 
 
 > **"If you think Mathematics is hard, try coding"**.
 
